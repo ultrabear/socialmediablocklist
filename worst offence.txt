@@ -1,0 +1,7 @@
+# malicious game launcher and social media platforms blocklist by biased users
+
+facebook.com
+snapchat.com
+instagram.com
+epicgames.com
+origin.com
